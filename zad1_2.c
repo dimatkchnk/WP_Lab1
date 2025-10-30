@@ -2,6 +2,7 @@
 
 // Zmienna globalna – istnieje przez cały czas działania programu
 int licznik = 0;
+int a;
 
 void funkcja() {
     // Zmienna lokalna – tworzona na nowo przy każdym wywołaniu funkcji
